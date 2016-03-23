@@ -1,0 +1,28 @@
+name: AVANTI MIX ROOM 1
+favicon: null
+layout_spectrum: 0.02221680828370154
+typography_spectrum: 0.6042493432760239
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5984027301892638
+  lightness: 0.11399134993553162
+  saturation: 0.28091302793473005
+  rhythmicContrast: 0.6411934485659003
+purpose: []
